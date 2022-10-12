@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.wrap {
+  width: 1140px;
+  margin: 0 auto; /* вміст по центру */
+  outline: 1px solid inherit;
+}
+
+.container-fluid a {
+  color: blue;
+}
+
+.container-fluid {
+  border-bottom: 0px;
+}
+
+.card-main {
+  border-top: 0px;
+  border-bottom: 0px;
+  margin-top: 20px;
+}
+
+.card-footer {
+  margin-top: 20px;
+}
